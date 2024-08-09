@@ -5,7 +5,7 @@ function App() {
         <div className="bg-black" >
             <div>
                 <div><h2 className='text-white'>NEWSLETTER</h2></div>
-                <div> dfsdf  </div>
+                <div> raj  </div>
             </div>
            
         </div>
